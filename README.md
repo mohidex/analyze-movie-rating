@@ -10,7 +10,7 @@ To do this, first scrape data for over 2000 movies from imdb website.
 
 Open your bash terminal -
 ``` bash
-git clone https://github.com/ifat-mohit/analize-movie-rating.git
+git clone https://github.com/ifat-mohit/analyze-movie-rating.git
 cd analize-movie-rating/
 pip3 install -r requirements.txt
 cd src/
